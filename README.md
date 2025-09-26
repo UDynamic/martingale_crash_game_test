@@ -3,6 +3,7 @@
 # 🎲 Martingale Crash Game Simulator  
 </div>
 ⚠️ **DISCLAIMER**  
+
 This project is for **educational and analytical purposes only**.  
 It demonstrates the mathematics of exponential betting systems and risk of ruin in rising-index “Crash” games.  
 It is **not** intended for real gambling or profit-making use.  
